@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ABD AZIZ\\source\\repos\\tpmod10_103022300092\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6A892536-1AF4-4FC0-9E7E-6E54A635DABC}|tpmod10_103022300092\\tpmod10_103022300092.csproj|c:\\users\\abd aziz\\source\\repos\\tpmod10_103022300092\\tpmod10_103022300092\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A892536-1AF4-4FC0-9E7E-6E54A635DABC}|tpmod10_103022300092\\tpmod10_103022300092.csproj|solutionrelative:tpmod10_103022300092\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ABD AZIZ\\source\\repos\\tpmod10_103022300092\\tpmod10_103022300092\\Program.cs",
+              "RelativeDocumentMoniker": "tpmod10_103022300092\\Program.cs",
+              "ToolTip": "C:\\Users\\ABD AZIZ\\source\\repos\\tpmod10_103022300092\\tpmod10_103022300092\\Program.cs",
+              "RelativeToolTip": "tpmod10_103022300092\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T14:02:11.059Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
