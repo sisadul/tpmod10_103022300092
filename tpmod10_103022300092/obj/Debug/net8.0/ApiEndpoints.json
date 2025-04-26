@@ -21,7 +21,7 @@
   },
   {
     "ContainingType": "MahasiswaController",
-    "Method": "Tambah",
+    "Method": "Post",
     "RelativePath": "api/Mahasiswa",
     "HttpMethod": "POST",
     "IsController": true,

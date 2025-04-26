@@ -34,3 +34,4 @@ C:\Users\ABD AZIZ\source\repos\tpmod10_103022300092\tpmod10_103022300092\obj\Deb
 C:\Users\ABD AZIZ\source\repos\tpmod10_103022300092\tpmod10_103022300092\obj\Debug\net8.0\tpmod10_103022300092.pdb
 C:\Users\ABD AZIZ\source\repos\tpmod10_103022300092\tpmod10_103022300092\obj\Debug\net8.0\tpmod10_103022300092.genruntimeconfig.cache
 C:\Users\ABD AZIZ\source\repos\tpmod10_103022300092\tpmod10_103022300092\obj\Debug\net8.0\ref\tpmod10_103022300092.dll
+C:\Users\ABD AZIZ\source\repos\tpmod10_103022300092\tpmod10_103022300092\obj\Debug\net8.0\tpmod10_103022300092.sourcelink.json
